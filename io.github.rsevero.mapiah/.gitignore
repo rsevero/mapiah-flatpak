@@ -1,0 +1,14 @@
+.flatpak-builder
+.flatpak-builder/***
+flutter-sdk-*.json
+flutter-shared.sh.patch
+io.github.rsevero.mapiah.yml
+package_config.json
+pubspec-sources.json
+build
+build/***
+builddir
+builddir/***
+repo
+repo/***
+ */ */
